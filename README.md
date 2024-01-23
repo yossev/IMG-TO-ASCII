@@ -4,7 +4,8 @@
 , If you're unfamiliar with how GreyScale Images work here's my main reference while building this project:<br />
 https://en.wikipedia.org/wiki/Grayscale <br />
 The Idea is to Convert Your Multi-Channel Colored Image into a Single-Channel GreyScale Image and Calculate the Average Intensity of each (Scale X Scale) pixels , adn then replacing them with ASCII Characters , Which are appended in the String 
-Depending on the Intensity of each pixel ( Higher Contrast ASCII Letters and Lower Contrast ASCII Letters )
+Depending on the Intensity of each pixel ( Higher Contrast ASCII Letters and Lower Contrast ASCII Letters ) <br />
+Please Open the Image Below to View the Before / After :
 </p>
 
 
